@@ -1,0 +1,11 @@
+bin
+obj
+packages
+Nuget
+.idea
+.vs
+.vscode
+*.user
+*.rdb
+BenchmarkDotNet.*
+.DS_Store
